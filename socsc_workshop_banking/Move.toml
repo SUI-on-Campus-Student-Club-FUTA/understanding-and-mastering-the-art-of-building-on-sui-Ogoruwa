@@ -1,0 +1,14 @@
+[package]
+name = "socsc_workshop_banking"
+edition = "2024"
+license = "MIT"
+authors = ["Ogoruwa"]
+
+[dependencies]
+
+[addresses]
+socsc_workshop_banking = "0x0"
+
+[dev-dependencies]
+
+[dev-addresses]
